@@ -1,6 +1,6 @@
 # Github Copilot review
 
-This is my review after nearly 1 month of usage
+This is my review after nearly 1 month of usage with the latest Github Copilot X
 
 
 ## Advantages & Examples:
