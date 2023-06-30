@@ -25,16 +25,16 @@ This is my review after nearly 1 month of usage with the latest Github Copilot X
 
 ## Comparisons:
 
- - with SolarLint
+### SolarLint
  
-  * better at code suggestion than SularLint
-  * use much smaller disk/ram/cpu usage than SolarLint
+  - Copilot is better at code suggestion than SularLint
+  - Copilot uses much smaller disk/ram/cpu usage than SolarLint
   
- -  with TabNine(free)
+### TabNine(free)
  
-  * better at code suggestion & code understanding
-  * TabNine does not have a live chat
-  * Tabnine can not generate code based on comments/function name
+  - Copilot is better at code suggestion & code understanding
+  - TabNine does not have a live chat
+  - Tabnine can not generate code based on comments/function name
   
   + Tabnine has a better performance/faster code completion
   
